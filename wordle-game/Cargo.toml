@@ -10,7 +10,6 @@ gmeta.workspace = true
 parity-scale-codec.workspace = true
 scale-info.workspace = true
 wordle-game-io.workspace = true
-tokio = { workspace = true }
 
 [build-dependencies]
 gear-wasm-builder.workspace = true
@@ -18,4 +17,3 @@ wordle-game-io.workspace = true
 
 [dev-dependencies]
 gtest.workspace = true
-tokio.workspace = true
